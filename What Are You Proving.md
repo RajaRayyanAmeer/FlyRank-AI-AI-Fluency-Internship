@@ -1,0 +1,5 @@
+# Week 1 — What Are You Proving?
+
+My portfolio proves that I can **build AI systems that operate in the physical world**, integrating AI with hardware and software to create systems that can perceive information, process it, and support real-world tasks. I am building this proof for a **robotics or embedded-AI technical lead who is considering an intern or junior engineer**, and the single most important action I want them to take is to **contact me about an opportunity**. Rather than simply listing technologies I have used, I want the portfolio to show how I approach unfamiliar problems, combine different technologies, use AI and other resources as engineering companions, debug what fails, and turn individual components into a working system.
+
+**Why this needs to exist:** My CV and LinkedIn can show that I have worked with ML, embedded systems, local LLM/RAG and other technologies, but they cannot prove how I actually combine those pieces and make an AI-enabled physical system work.
